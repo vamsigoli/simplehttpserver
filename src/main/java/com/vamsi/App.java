@@ -22,7 +22,7 @@ public class App
         server.start();
     }
 
-    private static void handleRequest(HttpExchange exchange) throws IOException {
+    public static void handleRequest(HttpExchange exchange) throws IOException {
 
         if (exchange.getRequestMethod().equals("GET")) {
             String response = "Hi there!";

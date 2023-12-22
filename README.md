@@ -5,3 +5,6 @@
 
 ## Second Command to execute
 `fetch("http://localhost:8500",{headers: {"Content-Type": "json/application"}}).then(a => a.text()).then(console.log)`
+
+# Java HttpClient auto close https://www.youtube.com/watch?v=ctYJmOlCUY4
+The new java httpclient from jdk 21 is auto closable. A test case has been added to demonstrate how it is used
