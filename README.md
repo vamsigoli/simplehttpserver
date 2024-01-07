@@ -8,3 +8,7 @@
 
 # Java HttpClient auto close https://www.youtube.com/watch?v=ctYJmOlCUY4
 The new java httpclient from jdk 21 is auto closable. A test case has been added to demonstrate how it is used
+
+# Another java in-memory server
+InMemoryHttpServer has another implementation for in-memory server
+Help document stored in vamsi-laptop/tech-june23
