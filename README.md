@@ -12,3 +12,9 @@ The new java httpclient from jdk 21 is auto closable. A test case has been added
 # Another java in-memory server
 InMemoryHttpServer has another implementation for in-memory server
 Help document stored in vamsi-laptop/tech-june23
+
+# Another nice java web server
+The SWSJRT class in this project has a nice implementation that servers
+the java classes through http. article stored in vamsi-laptop/tech-june23
+https://inside.java/2021/12/06/working-with-the-simple-web-server/
+
